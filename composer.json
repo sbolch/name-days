@@ -1,0 +1,21 @@
+{
+    "name": "sbolch/name-days",
+    "description": "Hungarian name day database",
+    "keywords": ["name day", "névnap"],
+    "type": "package",
+    "license": "MIT",
+    "homepage": "https://github.com/sbolch/name-days",
+    "authors": [
+        {
+            "name": "Szabolcs Surányi",
+            "email": "arnyek@arnyek.hu"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "sbolch\\": "" }
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-pdo": "*"
+    }
+}
