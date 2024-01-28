@@ -2,7 +2,6 @@
     "name": "sbolch/name-days",
     "description": "Hungarian name day database",
     "keywords": ["name day", "névnap"],
-    "type": "package",
     "license": "MIT",
     "homepage": "https://github.com/sbolch/name-days",
     "authors": [

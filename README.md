@@ -9,4 +9,5 @@ Name days are stored in CSV, JSON and SQLite formats in the project's data direc
 ```
 $nameDays = new \sbolch\NameDays();
 $nameDays->today(); // returns today's names in an array
+$nameDays->calendar(); // returns current year's name days with dates
 ```
